@@ -1,7 +1,5 @@
 # TRAN
 
-# TRAN
-
 ## Environment
 
 Python 3.6 & Tensorflow > 1.3
@@ -34,4 +32,4 @@ rank_lstm.py: Train a model of Rank_LSTM
 TRAN.py: Train a model of Time-aware Relational Attention Network  
 TRAN_doc2vec.py: Replace the topic based model with the Doc2vec in the text encoder and then train a model of Time-aware Relational Attention Network  
 
-The code is being improved and will be shared in the future.
+# The code is being improved and will be shared in the future.
